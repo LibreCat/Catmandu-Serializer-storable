@@ -1,0 +1,14 @@
+!.gitignore
+.DS_Store
+*.swp
+.build
+_build
+blib
+Build
+cover_db
+Makefile.PL
+MANIFEST*
+META.*
+MYMETA.*
+Catmandu-Serializer-storable-*
+!*.t
